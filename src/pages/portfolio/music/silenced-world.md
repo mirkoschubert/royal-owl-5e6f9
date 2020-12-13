@@ -1,7 +1,7 @@
 ---
 title: Silenced World
 subtitle: 'Album, 2012'
-excerpt: lorem-ipsum
+excerpt: Blablabla
 date: '2020-12-13'
 template: project
 thumb_image: /images/DSCF0469 1.jpg

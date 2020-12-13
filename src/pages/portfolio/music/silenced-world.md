@@ -1,6 +1,6 @@
 ---
 title: Silenced World
-subtitle: lorem-ipsum
+subtitle: 'Album, 2010'
 excerpt: lorem-ipsum
 date: '2020-12-13'
 template: project

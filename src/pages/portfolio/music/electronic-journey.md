@@ -4,6 +4,7 @@ subtitle: 'EP, 2010'
 excerpt: lorem-ipsum
 date: '2020-12-13'
 template: project
+thumb_image: /images/IMG_0199.jpg
 ---
 ## Lorem ipsum
 

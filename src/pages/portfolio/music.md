@@ -26,7 +26,7 @@ sections:
     type: section_hero
     template: section_hero
   - title: lorem-ipsum
-    section_id: lorem-ipsum
+    section_id: music
     subtitle: lorem-ipsum
     layout_style: mosaic
     projects_number: 4

@@ -1,5 +1,5 @@
 ---
-title: Tage wie diese
+title: Tage wie diese (Days like this)
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 date: '2020-12-13'

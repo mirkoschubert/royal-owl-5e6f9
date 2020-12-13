@@ -30,7 +30,7 @@ sections:
     subtitle: lorem-ipsum
     layout_style: mosaic
     projects_number: 4
-    view_all_label: lorem-ipsum
+    view_all_label: Listen
     view_all_url: lorem-ipsum
     type: section_portfolio
     template: section_portfolio

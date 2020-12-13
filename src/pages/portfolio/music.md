@@ -1,5 +1,5 @@
 ---
-title: Music Portfolio
+title: Music
 hide_title: true
 excerpt: lorem-ipsum
 sections:

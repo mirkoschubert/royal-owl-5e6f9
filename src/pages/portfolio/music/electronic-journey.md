@@ -1,6 +1,6 @@
 ---
 title: Electronic Journey
-subtitle: lorem-ipsum
+subtitle: 'EP, 2010'
 excerpt: lorem-ipsum
 date: '2020-12-13'
 template: project

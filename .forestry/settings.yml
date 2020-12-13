@@ -4,21 +4,6 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/5fd5e6f9f01a2d00158a1749/webhook/forestry
 sections:
-- type: document
-  path: site-metadata.json
-  label: Site Configuration
-  templates:
-  - config
-- type: document
-  path: src/pages/blog/index.md
-  label: Blog
-  templates:
-  - blog
-- type: document
-  path: src/pages/portfolio/index.md
-  label: Portfolio
-  templates:
-  - portfolio
 - type: directory
   path: src/pages
   label: Pages
@@ -30,6 +15,21 @@ sections:
   - page
   - post
   - project
+- type: document
+  path: src/pages/blog/index.md
+  label: Blog
+  templates:
+  - blog
+- type: document
+  path: src/pages/portfolio/index.md
+  label: Portfolio
+  templates:
+  - portfolio
+- type: document
+  path: site-metadata.json
+  label: Site Configuration
+  templates:
+  - config
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''

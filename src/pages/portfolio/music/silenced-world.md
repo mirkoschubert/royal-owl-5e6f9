@@ -5,6 +5,7 @@ excerpt: Blablabla
 date: '2020-12-13'
 template: project
 thumb_image: /images/DSCF0469 1.jpg
+image: /images/DSCF0469 1.jpg
 ---
 ## Lorem ipsum
 

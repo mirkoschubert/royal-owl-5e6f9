@@ -1,6 +1,6 @@
 ---
 title: Tage wie diese (Days like this)
-subtitle: lorem-ipsum
+subtitle: 'Album, 2004'
 excerpt: lorem-ipsum
 date: '2020-12-13'
 template: project

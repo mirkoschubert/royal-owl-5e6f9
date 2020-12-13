@@ -25,7 +25,7 @@ sections:
         type: action
     type: section_hero
     template: section_hero
-  - title: lorem-ipsum
+  - title: Music
     section_id: music
     subtitle: lorem-ipsum
     layout_style: mosaic

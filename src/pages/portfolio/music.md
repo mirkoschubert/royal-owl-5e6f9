@@ -3,7 +3,7 @@ title: Music Portfolio
 hide_title: true
 excerpt: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: MU
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum

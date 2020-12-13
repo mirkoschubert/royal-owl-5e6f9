@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Silenced World
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 date: '2020-12-13'

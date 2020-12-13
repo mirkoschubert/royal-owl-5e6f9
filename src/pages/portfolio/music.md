@@ -1,6 +1,6 @@
 ---
 title: Music Portfolio
-hide_title: true
+hide_title: false
 excerpt: lorem-ipsum
 sections:
   - title: Music
